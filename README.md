@@ -3,7 +3,8 @@ This project involved creating a detailed AI planning model for a robotic coffee
 
 
 <div align="center">
-  <a href="[https://your-university-link.com/](https://th.bing.com/th/id/R.36166d752ec17dab606f787a1d05bd52?rik=le43QunF5obUVA&riu=http%3a%2f%2fwww.edunita.com%2fwp-content%2fuploads%2f2021%2f01%2fgenova.png&ehk=vO%2fqbRzpl4%2fP44h%2fz2EhbhOCjAq3OTRKeLYgCOpQunI%3d&risl=&pid=ImgRaw&r=0)">
+ ![Alt text](image_url)
+
     <img src="img/your_university_logo.png" width="20%" height="20%" title="University of Genoa" alt="University of Genoa">
   </a>
 </div>
