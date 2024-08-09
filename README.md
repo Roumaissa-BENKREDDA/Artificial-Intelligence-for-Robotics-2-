@@ -9,7 +9,7 @@ This project involved creating a detailed AI planning model for a robotic coffee
 > **Authors:**
 > - *Ines Haouala*   
 > - *Aicha Manar Abbad*  
-> - *Romaissa Benkredda*   
+> - *Roumaissa Benkredda*   
 > - *Triki Karim* 
 >
 > **Professors:**
