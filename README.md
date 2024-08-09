@@ -12,9 +12,9 @@ This project involved creating a detailed AI planning model for a robotic coffee
 <h1 align="center"> AI for Robotics II - Assignment 1: AI Planning </h1>
 
 > **Authors:**
+> - *Roumaissa Benkredda*   
 > - *Ines Haouala*   
 > - *Aicha Manar Abbad*  
-> - *Roumaissa Benkredda*   
 > - *Triki Karim* 
 >
 > **Professors:**
@@ -106,7 +106,7 @@ The LPG planner is a widely used planning system based on heuristic search, part
 
 ### LPG Planner Download and Setup
 
-To download and set up the LPG planner, visit the [LPG++ download page](http://helios.hud.ac.uk/scommv/storage/lpg++). After downloading, navigate to the LPG++ directory in your terminal and run the following command:
+To download and set up the LPG planner, visit the [LPG++ download page](http://helios.hud.ac.uk/scommv/storage/lpg++) . After downloading, navigate to the LPG++ directory in your terminal and run the following command:
 
 ```bash
 ./lpg++ -o waiterrobot.pddl -f waiterrobot_p4.pddl -n 1
