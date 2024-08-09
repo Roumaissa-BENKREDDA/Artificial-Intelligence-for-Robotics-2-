@@ -1,0 +1,27 @@
+
+; Version LPG-td-1.4
+; Seed 24967462
+; Command line: ./lgp++ -o waiterrobot.pddl -f waiterrobot_p1.pddl -n 1 
+; Problem waiterrobot_p1.pddl
+; Time 0.06
+; Search time 0.05
+; Parsing time 0.01
+; Mutex time 0.00
+; MakeSpan 8.00
+
+
+0.0003:   (PREPARE-ORDER C1 T2 COUNTER) [3.0000]
+3.0005:   (TAKE-DRINK C1 COUNTER) [0.0000]
+3.0010:   (MOVE_ROBOT COUNTER T2) [1.0000]
+4.0013:   (SERVE-ORDER C1 T2) [0.0000]
+4.0017:   (MOVE_ROBOT T2 COUNTER) [1.0000]
+3.0008:   (PREPARE-ORDER C2 T2 COUNTER) [3.0000]
+6.0010:   (TAKE-DRINK C2 COUNTER) [0.0000]
+6.0015:   (MOVE_ROBOT COUNTER T2) [1.0000]
+7.0017:   (SERVE-ORDER C2 T2) [0.0000]
+7.0022:   (MOVE_ROBOT T2 T4) [0.5000]
+7.5025:   (CLEAN T4) [0.0000]
+7.5030:   (MOVE_ROBOT T4 T3) [0.5000]
+8.0032:   (CLEAN T3) [0.0000]
+
+
