@@ -7,10 +7,10 @@ This project involved creating a detailed AI planning model for a robotic coffee
 <h1 align="center"> AI for Robotics II - Assignment 1: AI Planning </h1>
 
 > **Authors:**
-> - *Ines Haouala* (S5483776)  
-> - *Aicha Manar Abbad* (S5565902)  
-> - *Romaissa Benkredda* (S5434673)  
-> - *Triki Karim* (S5528602)
+> - *Ines Haouala*   
+> - *Aicha Manar Abbad*  
+> - *Romaissa Benkredda*   
+> - *Triki Karim* 
 >
 > **Professors:**
 > - *Mauro Vallati*  
