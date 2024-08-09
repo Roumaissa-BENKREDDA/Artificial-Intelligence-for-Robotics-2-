@@ -3,7 +3,7 @@ This project involved creating a detailed AI planning model for a robotic coffee
 
 <div align="center">
   <a href="https://unige.it/en/">
-    <img src="./logounige.jpg" width="300" height="200" alt="University of Genoa Logo">
+    <img src="./logounige.jpg" width="200" height="200" alt="University of Genoa Logo">
   </a>
 </div>
 
